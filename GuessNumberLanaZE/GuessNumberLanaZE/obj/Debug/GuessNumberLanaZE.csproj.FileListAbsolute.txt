@@ -1,0 +1,10 @@
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\GuessNumberLanaZE\GuessNumberLanaZE\bin\Debug\GuessNumberLanaZE.exe.config
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\GuessNumberLanaZE\GuessNumberLanaZE\bin\Debug\GuessNumberLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\GuessNumberLanaZE\GuessNumberLanaZE\bin\Debug\GuessNumberLanaZE.pdb
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\GuessNumberLanaZE\GuessNumberLanaZE\obj\Debug\GuessNumberLanaZE.csprojAssemblyReference.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\GuessNumberLanaZE\GuessNumberLanaZE\obj\Debug\GuessNumberLanaZE.frmGuessNumber.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\GuessNumberLanaZE\GuessNumberLanaZE\obj\Debug\GuessNumberLanaZE.Properties.Resources.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\GuessNumberLanaZE\GuessNumberLanaZE\obj\Debug\GuessNumberLanaZE.csproj.GenerateResource.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\GuessNumberLanaZE\GuessNumberLanaZE\obj\Debug\GuessNumberLanaZE.csproj.CoreCompileInputs.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\GuessNumberLanaZE\GuessNumberLanaZE\obj\Debug\GuessNumberLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\GuessNumberLanaZE\GuessNumberLanaZE\obj\Debug\GuessNumberLanaZE.pdb
