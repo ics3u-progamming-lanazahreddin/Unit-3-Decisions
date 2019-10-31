@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\RandomNumberLanaZE\RandomNumberLanaZE\bin\Debug\RandomNumberLanaZE.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\RandomNumberLanaZE\RandomNumberLanaZE\bin\Debug\RandomNumberLanaZE.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\RandomNumberLanaZE\RandomNumberLanaZE\bin\Debug\RandomNumberLanaZE.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\RandomNumberLanaZE\RandomNumberLanaZE\obj\Debug\RandomNumberLanaZE.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\RandomNumberLanaZE\RandomNumberLanaZE\obj\Debug\RandomNumberLanaZE.frmRandomNumber.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\RandomNumberLanaZE\RandomNumberLanaZE\obj\Debug\RandomNumberLanaZE.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\RandomNumberLanaZE\RandomNumberLanaZE\obj\Debug\RandomNumberLanaZE.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\RandomNumberLanaZE\RandomNumberLanaZE\obj\Debug\RandomNumberLanaZE.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\RandomNumberLanaZE\RandomNumberLanaZE\obj\Debug\RandomNumberLanaZE.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\RandomNumberLanaZE\RandomNumberLanaZE\obj\Debug\RandomNumberLanaZE.pdb

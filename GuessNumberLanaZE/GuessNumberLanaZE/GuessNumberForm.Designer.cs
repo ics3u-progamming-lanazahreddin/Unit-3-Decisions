@@ -43,9 +43,10 @@
             // 
             this.lblQ.AutoSize = true;
             this.lblQ.Font = new System.Drawing.Font("Yu Gothic UI", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblQ.Location = new System.Drawing.Point(59, 104);
+            this.lblQ.Location = new System.Drawing.Point(44, 84);
+            this.lblQ.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblQ.Name = "lblQ";
-            this.lblQ.Size = new System.Drawing.Size(487, 51);
+            this.lblQ.Size = new System.Drawing.Size(389, 41);
             this.lblQ.TabIndex = 0;
             this.lblQ.Text = "Guess a number from 1-10 :";
             // 
@@ -53,26 +54,29 @@
             // 
             this.lblA.AutoSize = true;
             this.lblA.Font = new System.Drawing.Font("Yu Gothic UI", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblA.Location = new System.Drawing.Point(59, 445);
+            this.lblA.Location = new System.Drawing.Point(44, 362);
+            this.lblA.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblA.Name = "lblA";
-            this.lblA.Size = new System.Drawing.Size(56, 51);
+            this.lblA.Size = new System.Drawing.Size(44, 41);
             this.lblA.TabIndex = 1;
             this.lblA.Text = "??";
             // 
             // txtNumGuess
             // 
-            this.txtNumGuess.Location = new System.Drawing.Point(632, 119);
+            this.txtNumGuess.Location = new System.Drawing.Point(474, 97);
+            this.txtNumGuess.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtNumGuess.Name = "txtNumGuess";
-            this.txtNumGuess.Size = new System.Drawing.Size(233, 22);
+            this.txtNumGuess.Size = new System.Drawing.Size(176, 20);
             this.txtNumGuess.TabIndex = 2;
             // 
             // btnGuess
             // 
             this.btnGuess.BackColor = System.Drawing.Color.Fuchsia;
             this.btnGuess.Font = new System.Drawing.Font("Yu Gothic UI", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnGuess.Location = new System.Drawing.Point(322, 224);
+            this.btnGuess.Location = new System.Drawing.Point(242, 182);
+            this.btnGuess.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnGuess.Name = "btnGuess";
-            this.btnGuess.Size = new System.Drawing.Size(386, 113);
+            this.btnGuess.Size = new System.Drawing.Size(290, 92);
             this.btnGuess.TabIndex = 3;
             this.btnGuess.Text = "Guess";
             this.btnGuess.UseVisualStyleBackColor = false;
@@ -81,9 +85,10 @@
             // picWrong
             // 
             this.picWrong.Image = ((System.Drawing.Image)(resources.GetObject("picWrong.Image")));
-            this.picWrong.Location = new System.Drawing.Point(834, 378);
+            this.picWrong.Location = new System.Drawing.Point(626, 307);
+            this.picWrong.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.picWrong.Name = "picWrong";
-            this.picWrong.Size = new System.Drawing.Size(179, 148);
+            this.picWrong.Size = new System.Drawing.Size(134, 120);
             this.picWrong.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picWrong.TabIndex = 5;
             this.picWrong.TabStop = false;
@@ -91,25 +96,25 @@
             // picRight
             // 
             this.picRight.Image = ((System.Drawing.Image)(resources.GetObject("picRight.Image")));
-            this.picRight.Location = new System.Drawing.Point(728, 378);
+            this.picRight.Location = new System.Drawing.Point(187, 307);
+            this.picRight.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.picRight.Name = "picRight";
-            this.picRight.Size = new System.Drawing.Size(169, 148);
+            this.picRight.Size = new System.Drawing.Size(127, 120);
             this.picRight.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picRight.TabIndex = 6;
             this.picRight.TabStop = false;
             // 
             // frmGuessNumber
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1067, 554);
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.picRight);
             this.Controls.Add(this.picWrong);
             this.Controls.Add(this.btnGuess);
             this.Controls.Add(this.txtNumGuess);
             this.Controls.Add(this.lblA);
             this.Controls.Add(this.lblQ);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "frmGuessNumber";
             this.Text = "Guess the number by Lana ZE";
             this.Load += new System.EventHandler(this.FrmGuessNumber_Load);
