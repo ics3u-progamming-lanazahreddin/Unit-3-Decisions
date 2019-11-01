@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\NumberGame\NumberGame\bin\Debug\NumberGame.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\NumberGame\NumberGame\bin\Debug\NumberGame.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\NumberGame\NumberGame\bin\Debug\NumberGame.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\NumberGame\NumberGame\obj\Debug\NumberGame.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\NumberGame\NumberGame\obj\Debug\NumberGame.frmNumberGame.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\NumberGame\NumberGame\obj\Debug\NumberGame.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\NumberGame\NumberGame\obj\Debug\NumberGame.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\NumberGame\NumberGame\obj\Debug\NumberGame.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\NumberGame\NumberGame\obj\Debug\NumberGame.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\NumberGame\NumberGame\obj\Debug\NumberGame.pdb
