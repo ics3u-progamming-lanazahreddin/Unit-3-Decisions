@@ -1,0 +1,10 @@
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\RockPaperScissorsLanaZE\RockPaperScissorsLanaZE\bin\Debug\RockPaperScissorsLanaZE.exe.config
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\RockPaperScissorsLanaZE\RockPaperScissorsLanaZE\bin\Debug\RockPaperScissorsLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\RockPaperScissorsLanaZE\RockPaperScissorsLanaZE\bin\Debug\RockPaperScissorsLanaZE.pdb
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\RockPaperScissorsLanaZE\RockPaperScissorsLanaZE\obj\Debug\RockPaperScissorsLanaZE.csprojAssemblyReference.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\RockPaperScissorsLanaZE\RockPaperScissorsLanaZE\obj\Debug\RockPaperScissorsLanaZE.frmRockPaperScissors.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\RockPaperScissorsLanaZE\RockPaperScissorsLanaZE\obj\Debug\RockPaperScissorsLanaZE.Properties.Resources.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\RockPaperScissorsLanaZE\RockPaperScissorsLanaZE\obj\Debug\RockPaperScissorsLanaZE.csproj.GenerateResource.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\RockPaperScissorsLanaZE\RockPaperScissorsLanaZE\obj\Debug\RockPaperScissorsLanaZE.csproj.CoreCompileInputs.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\RockPaperScissorsLanaZE\RockPaperScissorsLanaZE\obj\Debug\RockPaperScissorsLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\RockPaperScissorsLanaZE\RockPaperScissorsLanaZE\obj\Debug\RockPaperScissorsLanaZE.pdb

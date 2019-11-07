@@ -1,0 +1,10 @@
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\ChocBoxesLanaZE\ChocBoxesLanaZE\bin\Debug\ChocBoxesLanaZE.exe.config
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\ChocBoxesLanaZE\ChocBoxesLanaZE\bin\Debug\ChocBoxesLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\ChocBoxesLanaZE\ChocBoxesLanaZE\bin\Debug\ChocBoxesLanaZE.pdb
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\ChocBoxesLanaZE\ChocBoxesLanaZE\obj\Debug\ChocBoxesLanaZE.csprojAssemblyReference.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\ChocBoxesLanaZE\ChocBoxesLanaZE\obj\Debug\ChocBoxesLanaZE.frmChocBoxes.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\ChocBoxesLanaZE\ChocBoxesLanaZE\obj\Debug\ChocBoxesLanaZE.Properties.Resources.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\ChocBoxesLanaZE\ChocBoxesLanaZE\obj\Debug\ChocBoxesLanaZE.csproj.GenerateResource.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\ChocBoxesLanaZE\ChocBoxesLanaZE\obj\Debug\ChocBoxesLanaZE.csproj.CoreCompileInputs.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\ChocBoxesLanaZE\ChocBoxesLanaZE\obj\Debug\ChocBoxesLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\ChocBoxesLanaZE\ChocBoxesLanaZE\obj\Debug\ChocBoxesLanaZE.pdb
