@@ -1,0 +1,10 @@
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\FactorialDoWhileLanaZE\FactorialDoWhileLanaZE\bin\Debug\FactorialDoWhileLanaZE.exe.config
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\FactorialDoWhileLanaZE\FactorialDoWhileLanaZE\bin\Debug\FactorialDoWhileLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\FactorialDoWhileLanaZE\FactorialDoWhileLanaZE\bin\Debug\FactorialDoWhileLanaZE.pdb
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\FactorialDoWhileLanaZE\FactorialDoWhileLanaZE\obj\Debug\FactorialDoWhileLanaZE.csprojAssemblyReference.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\FactorialDoWhileLanaZE\FactorialDoWhileLanaZE\obj\Debug\FactorialDoWhileLanaZE.Form1.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\FactorialDoWhileLanaZE\FactorialDoWhileLanaZE\obj\Debug\FactorialDoWhileLanaZE.Properties.Resources.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\FactorialDoWhileLanaZE\FactorialDoWhileLanaZE\obj\Debug\FactorialDoWhileLanaZE.csproj.GenerateResource.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\FactorialDoWhileLanaZE\FactorialDoWhileLanaZE\obj\Debug\FactorialDoWhileLanaZE.csproj.CoreCompileInputs.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\FactorialDoWhileLanaZE\FactorialDoWhileLanaZE\obj\Debug\FactorialDoWhileLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\FactorialDoWhileLanaZE\FactorialDoWhileLanaZE\obj\Debug\FactorialDoWhileLanaZE.pdb
