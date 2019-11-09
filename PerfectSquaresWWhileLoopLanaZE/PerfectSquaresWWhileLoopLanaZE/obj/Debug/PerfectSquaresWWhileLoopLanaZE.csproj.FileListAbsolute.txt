@@ -1,0 +1,10 @@
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\PerfectSquaresWWhileLoopLanaZE\PerfectSquaresWWhileLoopLanaZE\bin\Debug\PerfectSquaresWWhileLoopLanaZE.exe.config
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\PerfectSquaresWWhileLoopLanaZE\PerfectSquaresWWhileLoopLanaZE\bin\Debug\PerfectSquaresWWhileLoopLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\PerfectSquaresWWhileLoopLanaZE\PerfectSquaresWWhileLoopLanaZE\bin\Debug\PerfectSquaresWWhileLoopLanaZE.pdb
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\PerfectSquaresWWhileLoopLanaZE\PerfectSquaresWWhileLoopLanaZE\obj\Debug\PerfectSquaresWWhileLoopLanaZE.csprojAssemblyReference.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\PerfectSquaresWWhileLoopLanaZE\PerfectSquaresWWhileLoopLanaZE\obj\Debug\PerfectSquaresWWhileLoopLanaZE.frmPSWWL.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\PerfectSquaresWWhileLoopLanaZE\PerfectSquaresWWhileLoopLanaZE\obj\Debug\PerfectSquaresWWhileLoopLanaZE.Properties.Resources.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\PerfectSquaresWWhileLoopLanaZE\PerfectSquaresWWhileLoopLanaZE\obj\Debug\PerfectSquaresWWhileLoopLanaZE.csproj.GenerateResource.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\PerfectSquaresWWhileLoopLanaZE\PerfectSquaresWWhileLoopLanaZE\obj\Debug\PerfectSquaresWWhileLoopLanaZE.csproj.CoreCompileInputs.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\PerfectSquaresWWhileLoopLanaZE\PerfectSquaresWWhileLoopLanaZE\obj\Debug\PerfectSquaresWWhileLoopLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\PerfectSquaresWWhileLoopLanaZE\PerfectSquaresWWhileLoopLanaZE\obj\Debug\PerfectSquaresWWhileLoopLanaZE.pdb
