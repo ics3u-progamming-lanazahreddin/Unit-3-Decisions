@@ -1,0 +1,10 @@
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\hypotenuseLanaZE\hypotenuseLanaZE\bin\Debug\hypotenuseLanaZE.exe.config
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\hypotenuseLanaZE\hypotenuseLanaZE\bin\Debug\hypotenuseLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\hypotenuseLanaZE\hypotenuseLanaZE\bin\Debug\hypotenuseLanaZE.pdb
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\hypotenuseLanaZE\hypotenuseLanaZE\obj\Debug\hypotenuseLanaZE.csprojAssemblyReference.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\hypotenuseLanaZE\hypotenuseLanaZE\obj\Debug\hypotenuseLanaZE.frmhypotenuse.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\hypotenuseLanaZE\hypotenuseLanaZE\obj\Debug\hypotenuseLanaZE.Properties.Resources.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\hypotenuseLanaZE\hypotenuseLanaZE\obj\Debug\hypotenuseLanaZE.csproj.GenerateResource.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\hypotenuseLanaZE\hypotenuseLanaZE\obj\Debug\hypotenuseLanaZE.csproj.CoreCompileInputs.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\hypotenuseLanaZE\hypotenuseLanaZE\obj\Debug\hypotenuseLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\hypotenuseLanaZE\hypotenuseLanaZE\obj\Debug\hypotenuseLanaZE.pdb
