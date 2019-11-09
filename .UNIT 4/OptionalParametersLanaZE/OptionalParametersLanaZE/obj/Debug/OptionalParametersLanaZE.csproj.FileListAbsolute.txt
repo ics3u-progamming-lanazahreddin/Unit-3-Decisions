@@ -1,0 +1,10 @@
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\OptionalParametersLanaZE\OptionalParametersLanaZE\bin\Debug\OptionalParametersLanaZE.exe.config
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\OptionalParametersLanaZE\OptionalParametersLanaZE\bin\Debug\OptionalParametersLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\OptionalParametersLanaZE\OptionalParametersLanaZE\bin\Debug\OptionalParametersLanaZE.pdb
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\OptionalParametersLanaZE\OptionalParametersLanaZE\obj\Debug\OptionalParametersLanaZE.csprojAssemblyReference.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\OptionalParametersLanaZE\OptionalParametersLanaZE\obj\Debug\OptionalParametersLanaZE.frmOptionalParameters.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\OptionalParametersLanaZE\OptionalParametersLanaZE\obj\Debug\OptionalParametersLanaZE.Properties.Resources.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\OptionalParametersLanaZE\OptionalParametersLanaZE\obj\Debug\OptionalParametersLanaZE.csproj.GenerateResource.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\OptionalParametersLanaZE\OptionalParametersLanaZE\obj\Debug\OptionalParametersLanaZE.csproj.CoreCompileInputs.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\OptionalParametersLanaZE\OptionalParametersLanaZE\obj\Debug\OptionalParametersLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\OptionalParametersLanaZE\OptionalParametersLanaZE\obj\Debug\OptionalParametersLanaZE.pdb
