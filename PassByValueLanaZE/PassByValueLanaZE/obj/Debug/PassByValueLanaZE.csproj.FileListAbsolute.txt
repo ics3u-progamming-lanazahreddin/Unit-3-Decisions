@@ -1,0 +1,10 @@
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\PassByValueLanaZE\PassByValueLanaZE\bin\Debug\PassByValueLanaZE.exe.config
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\PassByValueLanaZE\PassByValueLanaZE\bin\Debug\PassByValueLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\PassByValueLanaZE\PassByValueLanaZE\bin\Debug\PassByValueLanaZE.pdb
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\PassByValueLanaZE\PassByValueLanaZE\obj\Debug\PassByValueLanaZE.csprojAssemblyReference.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\PassByValueLanaZE\PassByValueLanaZE\obj\Debug\PassByValueLanaZE.frmPassByVaue.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\PassByValueLanaZE\PassByValueLanaZE\obj\Debug\PassByValueLanaZE.Properties.Resources.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\PassByValueLanaZE\PassByValueLanaZE\obj\Debug\PassByValueLanaZE.csproj.GenerateResource.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\PassByValueLanaZE\PassByValueLanaZE\obj\Debug\PassByValueLanaZE.csproj.CoreCompileInputs.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\PassByValueLanaZE\PassByValueLanaZE\obj\Debug\PassByValueLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\PassByValueLanaZE\PassByValueLanaZE\obj\Debug\PassByValueLanaZE.pdb
