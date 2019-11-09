@@ -1,0 +1,10 @@
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\NestedLoopsLanaZE\NestedLoopsLanaZE\bin\Debug\NestedLoopsLanaZE.exe.config
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\NestedLoopsLanaZE\NestedLoopsLanaZE\bin\Debug\NestedLoopsLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\NestedLoopsLanaZE\NestedLoopsLanaZE\bin\Debug\NestedLoopsLanaZE.pdb
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\NestedLoopsLanaZE\NestedLoopsLanaZE\obj\Debug\NestedLoopsLanaZE.csprojAssemblyReference.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\NestedLoopsLanaZE\NestedLoopsLanaZE\obj\Debug\NestedLoopsLanaZE.frmNestedLoops.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\NestedLoopsLanaZE\NestedLoopsLanaZE\obj\Debug\NestedLoopsLanaZE.Properties.Resources.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\NestedLoopsLanaZE\NestedLoopsLanaZE\obj\Debug\NestedLoopsLanaZE.csproj.GenerateResource.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\NestedLoopsLanaZE\NestedLoopsLanaZE\obj\Debug\NestedLoopsLanaZE.csproj.CoreCompileInputs.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\NestedLoopsLanaZE\NestedLoopsLanaZE\obj\Debug\NestedLoopsLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\NestedLoopsLanaZE\NestedLoopsLanaZE\obj\Debug\NestedLoopsLanaZE.pdb
