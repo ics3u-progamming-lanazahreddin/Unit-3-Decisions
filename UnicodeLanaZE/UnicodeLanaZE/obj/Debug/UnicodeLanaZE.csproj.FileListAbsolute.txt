@@ -1,0 +1,10 @@
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\UnicodeLanaZE\UnicodeLanaZE\bin\Debug\UnicodeLanaZE.exe.config
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\UnicodeLanaZE\UnicodeLanaZE\bin\Debug\UnicodeLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\UnicodeLanaZE\UnicodeLanaZE\bin\Debug\UnicodeLanaZE.pdb
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\UnicodeLanaZE\UnicodeLanaZE\obj\Debug\UnicodeLanaZE.csprojAssemblyReference.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\UnicodeLanaZE\UnicodeLanaZE\obj\Debug\UnicodeLanaZE.Properties.Resources.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\UnicodeLanaZE\UnicodeLanaZE\obj\Debug\UnicodeLanaZE.frmUnicode.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\UnicodeLanaZE\UnicodeLanaZE\obj\Debug\UnicodeLanaZE.csproj.GenerateResource.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\UnicodeLanaZE\UnicodeLanaZE\obj\Debug\UnicodeLanaZE.csproj.CoreCompileInputs.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\UnicodeLanaZE\UnicodeLanaZE\obj\Debug\UnicodeLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\UnicodeLanaZE\UnicodeLanaZE\obj\Debug\UnicodeLanaZE.pdb
