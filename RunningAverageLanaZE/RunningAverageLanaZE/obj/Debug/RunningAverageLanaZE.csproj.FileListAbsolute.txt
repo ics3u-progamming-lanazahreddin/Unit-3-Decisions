@@ -1,0 +1,10 @@
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\RunningAverageLanaZE\RunningAverageLanaZE\bin\Debug\RunningAverageLanaZE.exe.config
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\RunningAverageLanaZE\RunningAverageLanaZE\bin\Debug\RunningAverageLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\RunningAverageLanaZE\RunningAverageLanaZE\bin\Debug\RunningAverageLanaZE.pdb
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\RunningAverageLanaZE\RunningAverageLanaZE\obj\Debug\RunningAverageLanaZE.csprojAssemblyReference.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\RunningAverageLanaZE\RunningAverageLanaZE\obj\Debug\RunningAverageLanaZE.Properties.Resources.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\RunningAverageLanaZE\RunningAverageLanaZE\obj\Debug\RunningAverageLanaZE.frmRunningAverage.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\RunningAverageLanaZE\RunningAverageLanaZE\obj\Debug\RunningAverageLanaZE.csproj.GenerateResource.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\RunningAverageLanaZE\RunningAverageLanaZE\obj\Debug\RunningAverageLanaZE.csproj.CoreCompileInputs.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\RunningAverageLanaZE\RunningAverageLanaZE\obj\Debug\RunningAverageLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\RunningAverageLanaZE\RunningAverageLanaZE\obj\Debug\RunningAverageLanaZE.pdb
