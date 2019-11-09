@@ -1,0 +1,10 @@
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\ForEachControlLanaZE\ForEachControlLanaZE\bin\Debug\ForEachControlLanaZE.exe.config
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\ForEachControlLanaZE\ForEachControlLanaZE\bin\Debug\ForEachControlLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\ForEachControlLanaZE\ForEachControlLanaZE\bin\Debug\ForEachControlLanaZE.pdb
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\ForEachControlLanaZE\ForEachControlLanaZE\obj\Debug\ForEachControlLanaZE.csprojAssemblyReference.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\ForEachControlLanaZE\ForEachControlLanaZE\obj\Debug\ForEachControlLanaZE.Form1.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\ForEachControlLanaZE\ForEachControlLanaZE\obj\Debug\ForEachControlLanaZE.Properties.Resources.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\ForEachControlLanaZE\ForEachControlLanaZE\obj\Debug\ForEachControlLanaZE.csproj.GenerateResource.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\ForEachControlLanaZE\ForEachControlLanaZE\obj\Debug\ForEachControlLanaZE.csproj.CoreCompileInputs.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\ForEachControlLanaZE\ForEachControlLanaZE\obj\Debug\ForEachControlLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\ForEachControlLanaZE\ForEachControlLanaZE\obj\Debug\ForEachControlLanaZE.pdb
