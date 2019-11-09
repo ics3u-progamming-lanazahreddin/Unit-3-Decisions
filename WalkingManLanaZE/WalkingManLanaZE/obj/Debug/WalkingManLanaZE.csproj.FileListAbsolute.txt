@@ -1,0 +1,10 @@
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\WalkingManLanaZE\WalkingManLanaZE\bin\Debug\WalkingManLanaZE.exe.config
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\WalkingManLanaZE\WalkingManLanaZE\bin\Debug\WalkingManLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\WalkingManLanaZE\WalkingManLanaZE\bin\Debug\WalkingManLanaZE.pdb
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\WalkingManLanaZE\WalkingManLanaZE\obj\Debug\WalkingManLanaZE.csprojAssemblyReference.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\WalkingManLanaZE\WalkingManLanaZE\obj\Debug\WalkingManLanaZE.Properties.Resources.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\WalkingManLanaZE\WalkingManLanaZE\obj\Debug\WalkingManLanaZE.WalkingManForm.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\WalkingManLanaZE\WalkingManLanaZE\obj\Debug\WalkingManLanaZE.csproj.GenerateResource.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\WalkingManLanaZE\WalkingManLanaZE\obj\Debug\WalkingManLanaZE.csproj.CoreCompileInputs.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\WalkingManLanaZE\WalkingManLanaZE\obj\Debug\WalkingManLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\WalkingManLanaZE\WalkingManLanaZE\obj\Debug\WalkingManLanaZE.pdb
