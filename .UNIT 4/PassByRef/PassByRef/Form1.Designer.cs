@@ -28,41 +28,41 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmPassByRef));
             this.picRandom = new System.Windows.Forms.PictureBox();
-            this.lblQ = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.picRandom)).BeginInit();
             this.SuspendLayout();
             // 
             // picRandom
             // 
-            this.picRandom.Image = ((System.Drawing.Image)(resources.GetObject("picRandom.Image")));
-            this.picRandom.Location = new System.Drawing.Point(261, 58);
+            this.picRandom.Image = global::PassByRef.Properties.Resources.QS;
+            this.picRandom.Location = new System.Drawing.Point(348, 71);
+            this.picRandom.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.picRandom.Name = "picRandom";
-            this.picRandom.Size = new System.Drawing.Size(268, 380);
+            this.picRandom.Size = new System.Drawing.Size(357, 468);
             this.picRandom.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picRandom.TabIndex = 0;
             this.picRandom.TabStop = false;
             this.picRandom.Click += new System.EventHandler(this.PicRandom_Click);
             // 
-            // lblQ
+            // label1
             // 
-            this.lblQ.AutoSize = true;
-            this.lblQ.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblQ.Location = new System.Drawing.Point(159, 9);
-            this.lblQ.Name = "lblQ";
-            this.lblQ.Size = new System.Drawing.Size(451, 29);
-            this.lblQ.TabIndex = 1;
-            this.lblQ.Text = "Click on the image to change it randomly ";
-            this.lblQ.Click += new System.EventHandler(this.LblQ_Click);
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 22.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(208, 9);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(717, 44);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "Click on the image to change it randomly ";
             // 
             // frmPassByRef
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.lblQ);
+            this.ClientSize = new System.Drawing.Size(1067, 554);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.picRandom);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "frmPassByRef";
             this.Text = "Pass By Reference By Lana ZE";
             ((System.ComponentModel.ISupportInitialize)(this.picRandom)).EndInit();
@@ -74,7 +74,7 @@
         #endregion
 
         private System.Windows.Forms.PictureBox picRandom;
-        private System.Windows.Forms.Label lblQ;
+        private System.Windows.Forms.Label label1;
     }
 }
 

@@ -1,0 +1,10 @@
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\SwitchLanaZE\SwitchLanaZE\bin\Debug\SwitchLanaZE.exe.config
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\SwitchLanaZE\SwitchLanaZE\bin\Debug\SwitchLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\SwitchLanaZE\SwitchLanaZE\bin\Debug\SwitchLanaZE.pdb
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\SwitchLanaZE\SwitchLanaZE\obj\Debug\SwitchLanaZE.csprojAssemblyReference.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\SwitchLanaZE\SwitchLanaZE\obj\Debug\SwitchLanaZE.frmSwitch.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\SwitchLanaZE\SwitchLanaZE\obj\Debug\SwitchLanaZE.Properties.Resources.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\SwitchLanaZE\SwitchLanaZE\obj\Debug\SwitchLanaZE.csproj.GenerateResource.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\SwitchLanaZE\SwitchLanaZE\obj\Debug\SwitchLanaZE.csproj.CoreCompileInputs.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\SwitchLanaZE\SwitchLanaZE\obj\Debug\SwitchLanaZE.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\SwitchLanaZE\SwitchLanaZE\obj\Debug\SwitchLanaZE.pdb

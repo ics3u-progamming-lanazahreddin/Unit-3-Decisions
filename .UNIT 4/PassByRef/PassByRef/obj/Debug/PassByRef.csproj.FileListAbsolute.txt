@@ -1,0 +1,10 @@
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\PassByRef\PassByRef\bin\Debug\PassByRef.exe.config
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\PassByRef\PassByRef\bin\Debug\PassByRef.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\PassByRef\PassByRef\bin\Debug\PassByRef.pdb
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\PassByRef\PassByRef\obj\Debug\PassByRef.csprojAssemblyReference.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\PassByRef\PassByRef\obj\Debug\PassByRef.frmPassByRef.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\PassByRef\PassByRef\obj\Debug\PassByRef.Properties.Resources.resources
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\PassByRef\PassByRef\obj\Debug\PassByRef.csproj.GenerateResource.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\PassByRef\PassByRef\obj\Debug\PassByRef.csproj.CoreCompileInputs.cache
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\PassByRef\PassByRef\obj\Debug\PassByRef.exe
+C:\Users\lanaz\Desktop\ICS3U\Unit-3-Decisions-\.UNIT 4\PassByRef\PassByRef\obj\Debug\PassByRef.pdb
