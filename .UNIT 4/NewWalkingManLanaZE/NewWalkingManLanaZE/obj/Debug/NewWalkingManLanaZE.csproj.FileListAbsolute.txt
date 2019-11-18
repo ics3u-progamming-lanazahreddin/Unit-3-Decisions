@@ -1,0 +1,5 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\.UNIT 4\NewWalkingManLanaZE\NewWalkingManLanaZE\obj\Debug\NewWalkingManLanaZE.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\.UNIT 4\NewWalkingManLanaZE\NewWalkingManLanaZE\obj\Debug\NewWalkingManLanaZE.Form1.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\.UNIT 4\NewWalkingManLanaZE\NewWalkingManLanaZE\obj\Debug\NewWalkingManLanaZE.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\.UNIT 4\NewWalkingManLanaZE\NewWalkingManLanaZE\obj\Debug\NewWalkingManLanaZE.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ZELana (s453557)\Unit 3 (Decisions)\.UNIT 4\NewWalkingManLanaZE\NewWalkingManLanaZE\obj\Debug\NewWalkingManLanaZE.csproj.CoreCompileInputs.cache
