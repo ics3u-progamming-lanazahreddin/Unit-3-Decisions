@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0A8C2223-1EB6-4F86-B9EF-B139B30577E9}</ProjectGuid>
+    <ProjectGuid>{DD98E5C7-4F3D-4925-8000-1820BC0FC375}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>NewWalkingManLanaZE</RootNamespace>
-    <AssemblyName>NewWalkingManLanaZE</AssemblyName>
+    <RootNamespace>WalkingManNewLanaZE</RootNamespace>
+    <AssemblyName>WalkingManNewLanaZE</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -81,34 +81,34 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\walk1.bmp" />
+    <None Include="Properties\walk1.bmp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\walk2.bmp" />
+    <None Include="Properties\walk2.bmp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\walk3.bmp" />
+    <None Include="Properties\walk3.bmp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\walk4.bmp" />
+    <None Include="Properties\walk4.bmp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\walk5.bmp" />
+    <None Include="Properties\walk5.bmp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\walk6.bmp" />
+    <None Include="Properties\walk6.bmp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\walk7.bmp" />
+    <None Include="Properties\walk7.bmp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\walk8.bmp" />
+    <None Include="Properties\walk8.bmp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\walk9.bmp" />
+    <None Include="Properties\walk9.bmp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\walk10.bmp" />
+    <None Include="Properties\walk10.bmp" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

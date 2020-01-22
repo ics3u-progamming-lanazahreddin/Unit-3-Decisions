@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewWalkingManLanaZE", "NewWalkingManLanaZE\NewWalkingManLanaZE.csproj", "{0A8C2223-1EB6-4F86-B9EF-B139B30577E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalkingManNewLanaZE", "WalkingManNewLanaZE\WalkingManNewLanaZE.csproj", "{DD98E5C7-4F3D-4925-8000-1820BC0FC375}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0A8C2223-1EB6-4F86-B9EF-B139B30577E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0A8C2223-1EB6-4F86-B9EF-B139B30577E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0A8C2223-1EB6-4F86-B9EF-B139B30577E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0A8C2223-1EB6-4F86-B9EF-B139B30577E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD98E5C7-4F3D-4925-8000-1820BC0FC375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD98E5C7-4F3D-4925-8000-1820BC0FC375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD98E5C7-4F3D-4925-8000-1820BC0FC375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD98E5C7-4F3D-4925-8000-1820BC0FC375}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5CBCE04E-48E4-4143-A663-95CFD9B2BA7B}
+		SolutionGuid = {2379F8DC-1D33-44D0-BDCF-FEA7EE41A9DB}
 	EndGlobalSection
 EndGlobal

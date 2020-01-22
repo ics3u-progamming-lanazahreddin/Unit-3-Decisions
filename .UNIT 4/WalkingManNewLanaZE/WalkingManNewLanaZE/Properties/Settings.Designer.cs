@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace NewWalkingManLanaZE.Properties
+namespace WalkingManNewLanaZE.Properties
 {
 
 
